@@ -1,0 +1,54 @@
+body {
+	font-size: 20px;
+	font-family: 'Open Sans', sans-serif;
+}
+
+#gallery-header {
+	text-transform: uppercase;
+	margin-left: 1.25%;
+	border-bottom: 2px solid red;
+	padding-bottom: 20px;
+	width: 97.5%;
+}
+
+.image {     
+	height: 300px;
+	width: 22.5%;
+	float: left;
+	margin: 1.25%;
+	background-size: cover;
+	background-position: center;
+}
+
+.image1 {
+	background-image: url("1.jpeg");
+}
+
+.image2 {
+	background-image: url("2.jpg");
+}
+
+.image3 {
+	background-image: url("3.jpg");
+}
+
+.image4 {
+	background-image: url("4.jpg");
+}
+
+.image5 {
+	background-image: url("2.jpg");
+}
+
+.image6 {
+	background-image: url("3.jpg");
+}
+
+.image7 {
+	background-image: url("4.jpg");
+}
+
+.image8 {
+	background-image: url("2.jpg");
+}
+
